@@ -31,7 +31,7 @@ Metrics:
 
 2. Sentiment Analysis on restaurant reviews 
 - Show most positive and negative comments on the restaurants 
-- an overall food-check score that combines sentiments on reviews and start ratings 
+- an overall food-check score that combines sentiments on reviews and star ratings 
 
 3. Analysis on competitors (either restaurants nearby and of simliar cuisine/business model) 
 - Opening hours (we could compare their peak hours) 
